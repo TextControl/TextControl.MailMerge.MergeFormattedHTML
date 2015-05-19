@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<report>
+  <company>
+    <name>Text Control, LLC</name>
+    <company_description><![CDATA[<p style="font-size: 16pt; color: red;">Founded in 1991, Text Control is an <strong>award-winning Visual Studio Industry Partner</strong> and leading vendor of word processing and reporting components for Microsoft development technologies.</p>]]></company_description>
+  </company>
+  <company>
+    <name>Text Control GmbH</name>
+    <company_description><![CDATA[<ol><li>List Item 1</li><li>List Item 2</li><li>List Item 3</li><li><strong>List Item 4</strong></li></ol>]]></company_description>
+  </company>
+</report>
